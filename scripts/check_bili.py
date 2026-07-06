@@ -148,15 +148,17 @@ def main():
     new_data = {}
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    img_key, sub_key = get_wbi_keys()
+    
     success_count = 0
 
     for up in up_list:
+        time.sleep(2)
         uid = up["uid"]
         name = up.get("name", uid)
         print(f"\n--- 检查: {name} (UID: {uid}) ---")
 
         try:
+            img_key, sub_key = get_wbi_keys()
             video = fetch_latest_video(uid, img_key, sub_key)
         except Exception as e:
             print(f"[ERROR] 获取失败: {e}")
@@ -216,7 +218,7 @@ def main():
         }
 
         print(f"标题: {video['title']}")
-        print(f"状态: {'🆕 新视频' if is_new else '无变化'}")
+        print(f"状态: {'新视频' if is_new else '无变化'}")
 
     save_json(DATA_FILE, new_data)
 
