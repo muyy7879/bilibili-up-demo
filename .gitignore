@@ -1,0 +1,12 @@
+# B 站登录 Cookie（敏感信息）
+bilibili_cookies.json
+
+# Python 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
