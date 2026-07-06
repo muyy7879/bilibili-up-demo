@@ -6,24 +6,50 @@
     "link": "https://www.bilibili.com/video/BV1htTF6zEYE",
     "pub_date": "2026-06-30 10:40:12 UTC",
     "video_id": "BV1htTF6zEYE",
-    "cover": "http://i1.hdslb.com/bfs/archive/a90d6335e08162c7925b005bb98af45098d45d08.jpg",
-    "checked_at": "2026-07-06 15:37:51 UTC",
-    "updated_at": "",
-    "is_new": false,
-    "fetch_error": false
+    "cover": "https://i1.hdslb.com/bfs/archive/a90d6335e08162c7925b005bb98af45098d45d08.jpg",
+    "checked_at": "2026-07-06 16:50:20 UTC",
+    "updated_at": "2026-07-06 16:50:20 UTC",
+    "is_new": true,
+    "fetch_error": false,
+    "recent_video_ids": [
+      "BV1htTF6zEYE",
+      "BV1Xg7v6PEr9",
+      "BV1247A6AEWD",
+      "BV1uVLX6uEYC",
+      "BV13QG16EEXG"
+    ],
+    "new_video_ids": [
+      "BV1Xg7v6PEr9",
+      "BV1247A6AEWD",
+      "BV1uVLX6uEYC",
+      "BV13QG16EEXG"
+    ]
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "企业级落地：DataAgent目前真正的难点是啥，怎么解决",
+    "link": "https://www.bilibili.com/video/BV1LUJP6REUf",
+    "pub_date": "2026-06-14 12:00:00 UTC",
     "video_id": "BV1LUJP6REUf",
-    "cover": "",
-    "checked_at": "2026-07-06 15:37:51 UTC",
-    "updated_at": "",
-    "is_new": false,
-    "fetch_error": true
+    "cover": "https://i1.hdslb.com/bfs/archive/729f00b2d533d19aa49fe9417514fad2d0b98dc3.jpg",
+    "checked_at": "2026-07-06 16:50:20 UTC",
+    "updated_at": "2026-07-06 16:50:20 UTC",
+    "is_new": true,
+    "fetch_error": false,
+    "recent_video_ids": [
+      "BV1LUJP6REUf",
+      "BV1keLp6GERQ",
+      "BV1eU5A6MERk",
+      "BV1t9oZBDENp",
+      "BV1kidZBuEE2"
+    ],
+    "new_video_ids": [
+      "BV1keLp6GERQ",
+      "BV1eU5A6MERk",
+      "BV1t9oZBDENp",
+      "BV1kidZBuEE2"
+    ]
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -32,10 +58,23 @@
     "link": "https://www.bilibili.com/video/BV15yGC6LEVw",
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
-    "cover": "http://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-06 15:37:51 UTC",
-    "updated_at": "",
-    "is_new": false,
-    "fetch_error": false
+    "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
+    "checked_at": "2026-07-06 16:50:20 UTC",
+    "updated_at": "2026-07-06 16:50:20 UTC",
+    "is_new": true,
+    "fetch_error": false,
+    "recent_video_ids": [
+      "BV15yGC6LEVw",
+      "BV1SYLb6TE3i",
+      "BV1k2RZBBEkT",
+      "BV1nwRkBWENv",
+      "BV1q7oSBVE14"
+    ],
+    "new_video_ids": [
+      "BV1SYLb6TE3i",
+      "BV1k2RZBBEkT",
+      "BV1nwRkBWENv",
+      "BV1q7oSBVE14"
+    ]
   }
 }
