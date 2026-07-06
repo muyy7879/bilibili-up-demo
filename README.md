@@ -1,2 +1,4 @@
 # bilibili-up-demo
-A demo for monitoring bilibili UP updates with GitHub Pages
+用于监控bilibili up主更新的小demo
+网址：https://muyy7879.github.io/bilibili-up-demo/
+
