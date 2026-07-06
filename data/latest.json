@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "",
     "cover": "",
-    "checked_at": "2026-07-06 15:06:01 UTC",
+    "checked_at": "2026-07-06 15:33:47 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": true
@@ -15,15 +15,15 @@
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "",
-    "cover": "",
-    "checked_at": "2026-07-06 15:06:01 UTC",
+    "title": "企业级落地：DataAgent目前真正的难点是啥，怎么解决",
+    "link": "https://www.bilibili.com/video/BV1LUJP6REUf",
+    "pub_date": "2026-06-14 12:00:00 UTC",
+    "video_id": "BV1LUJP6REUf",
+    "cover": "http://i1.hdslb.com/bfs/archive/729f00b2d533d19aa49fe9417514fad2d0b98dc3.jpg",
+    "checked_at": "2026-07-06 15:33:47 UTC",
     "updated_at": "",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "",
     "cover": "",
-    "checked_at": "2026-07-06 15:06:01 UTC",
+    "checked_at": "2026-07-06 15:33:47 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": true
