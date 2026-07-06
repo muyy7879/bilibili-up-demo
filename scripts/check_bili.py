@@ -35,19 +35,20 @@ def http_get_json(url, params=None):
         return json.loads(resp.read().decode("utf-8"))
 
 
+
 def get_wbi_keys():
     data = http_get_json("https://api.bilibili.com/x/web-interface/nav")
-    if data.get("code") != 0:
-        raise Exception(f"获取 WBI key 失败: {data}")
 
-    wbi_img = data["data"]["wbi_img"]
-    img_url = wbi_img["img_url"]
-    sub_url = wbi_img["sub_url"]
+    wbi_img = data.get("data", {}).get("wbi_img", {})
+    img_url = wbi_img.get("img_url", "")
+    sub_url = wbi_img.get("sub_url", "")
+
+    if not img_url or not sub_url:
+        raise Exception(f"获取 WBI key 失败: {data}")
 
     img_key = os.path.basename(urllib.parse.urlparse(img_url).path).split(".")[0]
     sub_key = os.path.basename(urllib.parse.urlparse(sub_url).path).split(".")[0]
     return img_key, sub_key
-
 
 def get_mixin_key(orig):
     return "".join(orig[i] for i in MIXIN_KEY_ENC_TAB)[:32]
