@@ -1,98 +1,43 @@
-import hashlib
 import json
 import os
 import time
-import urllib.parse
 import urllib.request
+import urllib.parse
 from datetime import datetime, timezone
 
 CONFIG_FILE = "config.json"
 DATA_FILE = "data/latest.json"
 
-USER_AGENT = "Mozilla/5.0"
-MIXIN_KEY_ENC_TAB = [
-    46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35,
-    27, 43, 5, 49, 33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13,
-    37, 48, 7, 16, 24, 55, 40, 61, 26, 17, 0, 1, 60, 51, 30, 4,
-    22, 25, 54, 21, 56, 59, 6, 63, 57, 62, 11, 36, 20, 34, 44, 52
-]
 
-
-def http_get_json(url, params=None):
-    if params:
-        query = urllib.parse.urlencode(params)
-        url = f"{url}?{query}"
-
+def http_get_json(url):
     req = urllib.request.Request(
         url,
         headers={
-            "User-Agent": USER_AGENT,
-            "Referer": "https://www.bilibili.com/"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://www.bilibili.com/",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8"
         }
     )
-
     with urllib.request.urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
 
+def fetch_latest_video(uid):
+    url = f"https://api.bilibili.com/x/space/arc/search?mid={uid}&pn=1&ps=1&order=pubdate"
 
-def get_wbi_keys():
-    data = http_get_json("https://api.bilibili.com/x/web-interface/nav")
+    data = http_get_json(url)
+    code = data.get("code", -1)
 
-    wbi_img = data.get("data", {}).get("wbi_img", {})
-    img_url = wbi_img.get("img_url", "")
-    sub_url = wbi_img.get("sub_url", "")
-
-    if not img_url or not sub_url:
-        raise Exception(f"获取 WBI key 失败: {data}")
-
-    img_key = os.path.basename(urllib.parse.urlparse(img_url).path).split(".")[0]
-    sub_key = os.path.basename(urllib.parse.urlparse(sub_url).path).split(".")[0]
-    return img_key, sub_key
-
-def get_mixin_key(orig):
-    return "".join(orig[i] for i in MIXIN_KEY_ENC_TAB)[:32]
-
-
-def sign_wbi_params(params, img_key, sub_key):
-    mixin_key = get_mixin_key(img_key + sub_key)
-
-    params = {k: str(v) for k, v in params.items()}
-    params["wts"] = str(int(time.time()))
-
-    filtered = {}
-    for k in sorted(params.keys()):
-        v = params[k]
-        v = "".join(ch for ch in v if ch not in "!'()*")
-        filtered[k] = v
-
-    query = urllib.parse.urlencode(filtered)
-    w_rid = hashlib.md5((query + mixin_key).encode("utf-8")).hexdigest()
-    filtered["w_rid"] = w_rid
-    return filtered
-
-
-def fetch_latest_video(uid, img_key, sub_key):
-    base_url = "https://api.bilibili.com/x/space/wbi/arc/search"
-    params = {
-        "mid": uid,
-        "pn": 1,
-        "ps": 1,
-        "order": "pubdate"
-    }
-
-    signed_params = sign_wbi_params(params, img_key, sub_key)
-    data = http_get_json(base_url, signed_params)
-
-    if data.get("code") != 0:
-        raise Exception(f"获取视频列表失败: code={data.get('code')}, message={data.get('message')}")
+    if code != 0:
+        msg = data.get("message", "unknown")
+        raise Exception(f"API 返回错误: code={code}, message={msg}")
 
     vlist = data.get("data", {}).get("list", {}).get("vlist", [])
     if not vlist:
         return None
 
     video = vlist[0]
-
     bvid = video.get("bvid", "")
     aid = video.get("aid", "")
     title = video.get("title", "")
@@ -147,19 +92,17 @@ def main():
     old_data = load_json(DATA_FILE)
     new_data = {}
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-
-    
     success_count = 0
 
     for up in up_list:
-        time.sleep(2)
         uid = up["uid"]
         name = up.get("name", uid)
         print(f"\n--- 检查: {name} (UID: {uid}) ---")
 
+        time.sleep(3)
+
         try:
-            img_key, sub_key = get_wbi_keys()
-            video = fetch_latest_video(uid, img_key, sub_key)
+            video = fetch_latest_video(uid)
         except Exception as e:
             print(f"[ERROR] 获取失败: {e}")
             new_data[uid] = {
@@ -180,16 +123,17 @@ def main():
         success_count += 1
 
         if video is None:
+            print("  该 UP 暂无公开视频")
             new_data[uid] = {
                 "name": name,
                 "uid": uid,
                 "title": "该 UP 暂无公开视频",
                 "link": f"https://space.bilibili.com/{uid}",
                 "pub_date": "",
-                "video_id": old_data.get(uid, {}).get("video_id", ""),
+                "video_id": "",
                 "cover": "",
                 "checked_at": now,
-                "updated_at": old_data.get(uid, {}).get("updated_at", ""),
+                "updated_at": "",
                 "is_new": False,
                 "fetch_error": False
             }
@@ -217,8 +161,8 @@ def main():
             "fetch_error": False
         }
 
-        print(f"标题: {video['title']}")
-        print(f"状态: {'新视频' if is_new else '无变化'}")
+        print(f"  标题: {video['title']}")
+        print(f"  状态: {'新视频!' if is_new else '无变化'}")
 
     save_json(DATA_FILE, new_data)
 
@@ -226,9 +170,9 @@ def main():
     print(json.dumps(new_data, ensure_ascii=False, indent=2))
 
     if success_count == 0:
-        raise Exception("所有 UP 主都获取失败，请检查接口是否变更")
+        raise Exception("所有 UP 主都获取失败")
 
-    print(f"\n 检查完成，成功处理 {success_count} 个 UP 主")
+    print(f"\n完成，成功处理 {success_count} 个 UP 主")
 
 
 if __name__ == "__main__":
