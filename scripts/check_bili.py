@@ -141,9 +141,9 @@ def main():
     print(json.dumps(new_data, ensure_ascii=False, indent=2))
 
     if success_count == 0:
-        raise Exception("所有 UP 主抓取失败，请检查 B 站接口是否可用")
+        print("所有 UP 主抓取失败，但仍然已生成错误状态数据")
 
-    print(f"\n✅ 检查完成，成功抓取 {success_count} 个 UP 主")
+print(f"\n 检查完成，成功抓取 {success_count} 个 UP 主")
 
 
 if __name__ == "__main__":
