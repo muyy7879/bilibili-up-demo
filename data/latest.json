@@ -7,7 +7,7 @@
     "pub_date": "2026-07-07 09:48:15 UTC",
     "video_id": "BV1LkM86vEEW",
     "cover": "https://i1.hdslb.com/bfs/archive/9b6d7db96cd6e0551e50ef9afb961805b581b722.jpg",
-    "checked_at": "2026-07-07 17:12:51 UTC",
+    "checked_at": "2026-07-07 18:43:13 UTC",
     "updated_at": "2026-07-07 12:39:44 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -28,7 +28,7 @@
     "pub_date": "2026-06-14 12:00:00 UTC",
     "video_id": "BV1LUJP6REUf",
     "cover": "https://i1.hdslb.com/bfs/archive/729f00b2d533d19aa49fe9417514fad2d0b98dc3.jpg",
-    "checked_at": "2026-07-07 17:12:51 UTC",
+    "checked_at": "2026-07-07 18:43:13 UTC",
     "updated_at": "2026-07-06 16:50:20 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -49,7 +49,7 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-07 17:12:51 UTC",
+    "checked_at": "2026-07-07 18:43:13 UTC",
     "updated_at": "2026-07-06 16:50:20 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -70,7 +70,7 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-07 17:12:51 UTC",
+    "checked_at": "2026-07-07 18:43:13 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -91,7 +91,7 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-07 17:12:51 UTC",
+    "checked_at": "2026-07-07 18:43:13 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -103,5 +103,32 @@
       "BV1E7wtzaEdq"
     ],
     "new_video_ids": []
+  },
+  "16433002": {
+    "name": "隔壁的程序员老王",
+    "uid": "16433002",
+    "title": "Vibe Coding是什么？从AI模型、Agent到工作流，彻底搞懂AI编程工具",
+    "link": "https://www.bilibili.com/video/BV1VC7g6vE9f",
+    "pub_date": "2026-06-25 09:00:00 UTC",
+    "video_id": "BV1VC7g6vE9f",
+    "cover": "https://i1.hdslb.com/bfs/archive/68dc27c1aee31ae96a7e8d054e6ea8757ad983a5.jpg",
+    "checked_at": "2026-07-07 18:43:13 UTC",
+    "updated_at": "",
+    "is_new": false,
+    "fetch_error": false,
+    "recent_video_ids": [
+      "BV1VC7g6vE9f",
+      "BV1mE7y6SEcV",
+      "BV1TFG56XERd",
+      "BV1YP5W6ZEP9",
+      "BV1AEd6BZEiB"
+    ],
+    "new_video_ids": [
+      "BV1VC7g6vE9f",
+      "BV1mE7y6SEcV",
+      "BV1TFG56XERd",
+      "BV1YP5W6ZEP9",
+      "BV1AEd6BZEiB"
+    ]
   }
 }
