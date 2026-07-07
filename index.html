@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>更新监控</title>
+  <title>B站 UP 更新监控</title>
   <style>
     * {
       box-sizing: border-box;
@@ -56,18 +56,8 @@
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     }
 
-    .card-cover {
-      width: 200px;
-      min-height: 130px;
-      background-size: cover;
-      background-position: center;
-      background-color: #e8e8e8;
-      flex-shrink: 0;
-    }
-
     .card-body {
       padding: 16px 20px;
-      flex: 1;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -109,6 +99,11 @@
     .badge-error {
       background: #fff3f3;
       color: #cc3333;
+    }
+
+    .badge-warning {
+      background: #fff8e1;
+      color: #ff8f00;
     }
 
     .video-title {
@@ -154,23 +149,12 @@
       color: #bbb;
       font-size: 12px;
     }
-
-    @media (max-width: 600px) {
-      .card {
-        flex-direction: column;
-      }
-
-      .card-cover {
-        width: 100%;
-        height: 180px;
-      }
-    }
   </style>
 </head>
 <body>
   <div class="header">
     <h1>B站 UP 更新监控</h1>
-    <p>每天自动检查一次 · 由 GitHub Actions 驱动</p>
+    <p>每 3 小时自动检查一次 · 由本地服务驱动</p>
   </div>
 
   <div id="app" class="card-list">
@@ -178,10 +162,31 @@
   </div>
 
   <div class="footer">
-    数据来源：RSSHub · 托管于 GitHub Pages
+    数据来源：Bilibili · 托管于 GitHub Pages
   </div>
 
   <script>
+    // UTC 时间转北京时间 (CST, UTC+8)
+    function utcToBeijing(utcTime) {
+      if (!utcTime) return '-';
+      try {
+        // 处理可能的格式: "2026-07-07 08:35:04 UTC"
+        const date = new Date(utcTime.replace(' UTC', '') + 'Z');
+        return date.toLocaleString('zh-CN', {
+          timeZone: 'Asia/Shanghai',
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit',
+          second: '2-digit',
+          hour12: false
+        }).replace(/\//g, '-');
+      } catch (e) {
+        return utcTime; // 如果转换失败，返回原始时间
+      }
+    }
+
     fetch('./data/latest.json?t=' + Date.now())
       .then(res => {
         if (!res.ok) throw new Error('HTTP ' + res.status);
@@ -192,14 +197,17 @@
         const uids = Object.keys(data);
 
         if (uids.length === 0) {
-          app.innerHTML = '<div class="loading">暂无数据，请先手动运行一次 GitHub Action</div>';
+          app.innerHTML = '<div class="loading">暂无数据，请先运行检查脚本</div>';
           return;
         }
 
+        // 按是否有新视频和是否失败排序
         uids.sort((a, b) => {
-          const aNew = data[a].is_new ? 1 : 0;
-          const bNew = data[b].is_new ? 1 : 0;
-          return bNew - aNew;
+          const aNew = data[a].is_new ? 2 : 0;
+          const bNew = data[b].is_new ? 2 : 0;
+          const aError = data[a].fetch_error ? 1 : 0;
+          const bError = data[b].fetch_error ? 1 : 0;
+          return (bNew + bError) - (aNew + aError);
         });
 
         let html = '';
@@ -211,16 +219,18 @@
           let badgeText = '暂无更新';
 
           if (up.fetch_error) {
-            badgeClass = 'badge-error';
-            badgeText = '获取失败';
+            // 如果有旧数据，显示警告而不是错误
+            if (up.title && up.title !== '') {
+              badgeClass = 'badge-warning';
+              badgeText = '检查失败，展示旧数据';
+            } else {
+              badgeClass = 'badge-error';
+              badgeText = '获取失败';
+            }
           } else if (up.is_new) {
             badgeClass = 'badge-new';
             badgeText = '新视频';
           }
-
-          const coverStyle = up.cover
-            ? `background-image: url('${up.cover}')`
-            : '';
 
           const spaceUrl = `https://space.bilibili.com/${up.uid}`;
 
@@ -241,8 +251,8 @@
                   </div>
                 </div>
                 <div class="card-meta">
-                  <span>发布：${up.pub_date || '-'}</span>
-                  <span>检查：${up.checked_at || '-'}</span>
+                  <span>发布：${utcToBeijing(up.pub_date) || '-'}</span>
+                  <span>检查：${utcToBeijing(up.checked_at) || '-'}</span>
                 </div>
               </div>
             </div>
@@ -253,7 +263,7 @@
       })
       .catch(err => {
         document.getElementById('app').innerHTML =
-          `<div class="error-msg">数据加载失败：${err.message}<br>请确认已运行过一次 GitHub Action</div>`;
+          `<div class="error-msg">数据加载失败：${err.message}<br>请确认 data/latest.json 文件存在</div>`;
       });
   </script>
 </body>
