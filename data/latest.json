@@ -7,7 +7,7 @@
     "pub_date": "2026-07-07 09:48:15 UTC",
     "video_id": "BV1LkM86vEEW",
     "cover": "https://i1.hdslb.com/bfs/archive/9b6d7db96cd6e0551e50ef9afb961805b581b722.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "2026-07-07 12:39:44 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -28,7 +28,7 @@
     "pub_date": "2026-06-14 12:00:00 UTC",
     "video_id": "BV1LUJP6REUf",
     "cover": "https://i1.hdslb.com/bfs/archive/729f00b2d533d19aa49fe9417514fad2d0b98dc3.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "2026-07-06 16:50:20 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -49,7 +49,7 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "2026-07-06 16:50:20 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -70,7 +70,7 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -91,7 +91,7 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -112,7 +112,7 @@
     "pub_date": "2026-07-07 16:25:45 UTC",
     "video_id": "BV1Q8Mh6aEeZ",
     "cover": "https://i0.hdslb.com/bfs/archive/261914bbbc0c686d3bcc7fd329d99517eb7d39f8.jpg",
-    "checked_at": "2026-07-08 13:35:23 UTC",
+    "checked_at": "2026-07-08 13:48:04 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -124,5 +124,32 @@
       "BV1UUT969Ekh"
     ],
     "new_video_ids": []
+  },
+  "517221395": {
+    "name": "ZOMI酱",
+    "uid": "517221395",
+    "title": "瞎谈谈1年前我对Scaling Law未来演进的想法~",
+    "link": "https://www.bilibili.com/video/BV1te5R6zE5f",
+    "pub_date": "2026-05-14 15:17:42 UTC",
+    "video_id": "BV1te5R6zE5f",
+    "cover": "https://i1.hdslb.com/bfs/archive/ea28c9a1f8881364ca6251193a2e984cd5677d83.jpg",
+    "checked_at": "2026-07-08 13:48:04 UTC",
+    "updated_at": "",
+    "is_new": false,
+    "fetch_error": false,
+    "recent_video_ids": [
+      "BV1te5R6zE5f",
+      "BV1nyQGBaEKW",
+      "BV1FXnEzpEPZ",
+      "BV1tpnGzUELC",
+      "BV1sLWwzWEix"
+    ],
+    "new_video_ids": [
+      "BV1te5R6zE5f",
+      "BV1nyQGBaEKW",
+      "BV1FXnEzpEPZ",
+      "BV1tpnGzUELC",
+      "BV1sLWwzWEix"
+    ]
   }
 }
