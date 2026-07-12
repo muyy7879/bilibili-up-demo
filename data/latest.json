@@ -7,7 +7,7 @@
     "pub_date": "2026-07-11 12:07:13 UTC",
     "video_id": "BV1KcNc6FEqA",
     "cover": "https://i1.hdslb.com/bfs/archive/5d63d1d2e9edac1a41cd7365deb2a4fffeebadb1.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "2026-07-11 13:15:49 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -28,9 +28,9 @@
     "pub_date": "2026-07-12 12:51:10 UTC",
     "video_id": "BV1CuNG6pERs",
     "cover": "https://i1.hdslb.com/bfs/archive/38e6bd080c86d867a160c8b40575a624a4f8b8f6.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "2026-07-12 13:08:01 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV1CuNG6pERs",
@@ -39,9 +39,7 @@
       "BV1eU5A6MERk",
       "BV1t9oZBDENp"
     ],
-    "new_video_ids": [
-      "BV1CuNG6pERs"
-    ]
+    "new_video_ids": []
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -51,7 +49,7 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "2026-07-12 07:07:23 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -72,7 +70,7 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -93,7 +91,7 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -114,7 +112,7 @@
     "pub_date": "2026-07-12 07:09:32 UTC",
     "video_id": "BV19zNT64EsN",
     "cover": "https://i0.hdslb.com/bfs/archive/2f32ad7e6531c7b200db7ba57f311af8500d5227.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "2026-07-12 10:07:41 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -135,7 +133,7 @@
     "pub_date": "2026-05-14 15:17:42 UTC",
     "video_id": "BV1te5R6zE5f",
     "cover": "https://i1.hdslb.com/bfs/archive/ea28c9a1f8881364ca6251193a2e984cd5677d83.jpg",
-    "checked_at": "2026-07-12 13:08:01 UTC",
+    "checked_at": "2026-07-12 16:21:58 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
