@@ -7,7 +7,7 @@
     "pub_date": "2026-07-11 12:07:13 UTC",
     "video_id": "BV1KcNc6FEqA",
     "cover": "https://i1.hdslb.com/bfs/archive/5d63d1d2e9edac1a41cd7365deb2a4fffeebadb1.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
+    "checked_at": "2026-07-12 07:07:23 UTC",
     "updated_at": "2026-07-11 13:15:49 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -28,7 +28,7 @@
     "pub_date": "2026-06-14 12:00:00 UTC",
     "video_id": "BV1LUJP6REUf",
     "cover": "https://i1.hdslb.com/bfs/archive/729f00b2d533d19aa49fe9417514fad2d0b98dc3.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
+    "checked_at": "2026-07-12 07:07:23 UTC",
     "updated_at": "2026-07-06 16:50:20 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -49,18 +49,20 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
-    "updated_at": "2026-07-06 16:50:20 UTC",
-    "is_new": false,
+    "checked_at": "2026-07-12 07:07:23 UTC",
+    "updated_at": "2026-07-12 07:07:23 UTC",
+    "is_new": true,
     "fetch_error": false,
     "recent_video_ids": [
       "BV15yGC6LEVw",
-      "BV1SYLb6TE3i",
       "BV1k2RZBBEkT",
       "BV1nwRkBWENv",
-      "BV1q7oSBVE14"
+      "BV1q7oSBVE14",
+      "BV11QogB2EZt"
     ],
-    "new_video_ids": []
+    "new_video_ids": [
+      "BV11QogB2EZt"
+    ]
   },
   "661890559": {
     "name": "木乔_Mokio",
@@ -70,7 +72,7 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
+    "checked_at": "2026-07-12 07:07:23 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -91,7 +93,7 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
+    "checked_at": "2026-07-12 07:07:23 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
@@ -107,23 +109,25 @@
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "KV Cache 如何加速 LLM，打造更快的 GPU AI 模型",
-    "link": "https://www.bilibili.com/video/BV14NNA6NEKV",
-    "pub_date": "2026-07-11 15:24:47 UTC",
-    "video_id": "BV14NNA6NEKV",
-    "cover": "https://i2.hdslb.com/bfs/archive/ea17679fe9fbc171d692d06bcb6991ea96317753.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
-    "updated_at": "2026-07-11 16:32:52 UTC",
-    "is_new": false,
+    "title": "【金融领域】我们在金融实践中如何使用人工智能 | 2026年AI峰会 | 挪威银行投资管理公司",
+    "link": "https://www.bilibili.com/video/BV1q8NT6eEoA",
+    "pub_date": "2026-07-12 06:43:22 UTC",
+    "video_id": "BV1q8NT6eEoA",
+    "cover": "https://i2.hdslb.com/bfs/archive/14e858209b71f432a769fa2cd3267ac8cd57bf5c.jpg",
+    "checked_at": "2026-07-12 07:07:23 UTC",
+    "updated_at": "2026-07-12 07:07:23 UTC",
+    "is_new": true,
     "fetch_error": false,
     "recent_video_ids": [
+      "BV1q8NT6eEoA",
       "BV14NNA6NEKV",
       "BV1osNA6nEN9",
       "BV17pNA6XEbP",
-      "BV19hNA6jE78",
-      "BV1RbNA6mEJy"
+      "BV19hNA6jE78"
     ],
-    "new_video_ids": []
+    "new_video_ids": [
+      "BV1q8NT6eEoA"
+    ]
   },
   "517221395": {
     "name": "ZOMI酱",
@@ -133,7 +137,7 @@
     "pub_date": "2026-05-14 15:17:42 UTC",
     "video_id": "BV1te5R6zE5f",
     "cover": "https://i1.hdslb.com/bfs/archive/ea28c9a1f8881364ca6251193a2e984cd5677d83.jpg",
-    "checked_at": "2026-07-11 22:33:21 UTC",
+    "checked_at": "2026-07-12 07:07:23 UTC",
     "updated_at": "",
     "is_new": false,
     "fetch_error": false,
