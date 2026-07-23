@@ -7,9 +7,9 @@
     "pub_date": "2026-07-18 07:13:15 UTC",
     "video_id": "BV1yLKw6aE9p",
     "cover": "https://i2.hdslb.com/bfs/archive/ff9cef97bf146be95431d86dfa496e95c959d919.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV1yLKw6aE9p",
@@ -18,12 +18,7 @@
       "BV1htTF6zEYE",
       "BV1Xg7v6PEr9"
     ],
-    "new_video_ids": [
-      "BV1KcNc6FEqA",
-      "BV1LkM86vEEW",
-      "BV1htTF6zEYE",
-      "BV1Xg7v6PEr9"
-    ]
+    "new_video_ids": []
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -33,9 +28,9 @@
     "pub_date": "2026-07-19 12:00:00 UTC",
     "video_id": "BV12WK666EhM",
     "cover": "https://i2.hdslb.com/bfs/archive/a7cacbbfeb6566942fb3a3682ffafc4ba4cd4477.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV12WK666EhM",
@@ -44,12 +39,7 @@
       "BV1keLp6GERQ",
       "BV1eU5A6MERk"
     ],
-    "new_video_ids": [
-      "BV1CuNG6pERs",
-      "BV1LUJP6REUf",
-      "BV1keLp6GERQ",
-      "BV1eU5A6MERk"
-    ]
+    "new_video_ids": []
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -59,9 +49,9 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV15yGC6LEVw",
@@ -70,12 +60,7 @@
       "BV1q7oSBVE14",
       "BV11QogB2EZt"
     ],
-    "new_video_ids": [
-      "BV1k2RZBBEkT",
-      "BV1nwRkBWENv",
-      "BV1q7oSBVE14",
-      "BV11QogB2EZt"
-    ]
+    "new_video_ids": []
   },
   "661890559": {
     "name": "木乔_Mokio",
@@ -85,9 +70,9 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV1dw526tEMA",
@@ -96,12 +81,7 @@
       "BV1axcQznEQK",
       "BV1XWfUBTEHe"
     ],
-    "new_video_ids": [
-      "BV1pUDHBoE5Q",
-      "BV1z4wRzgExu",
-      "BV1axcQznEQK",
-      "BV1XWfUBTEHe"
-    ]
+    "new_video_ids": []
   },
   "1815948385": {
     "name": "马克的技术工作坊",
@@ -111,9 +91,9 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV1cmTu6mEL3",
@@ -122,37 +102,33 @@
       "BV16zDfBtECQ",
       "BV1E7wtzaEdq"
     ],
-    "new_video_ids": [
-      "BV1c9EK6KEW4",
-      "BV12LR1B3EUt",
-      "BV16zDfBtECQ",
-      "BV1E7wtzaEdq"
-    ]
+    "new_video_ids": []
   },
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】Evidently AI-面向AI应用开发者的LLM评估课程",
-    "link": "https://www.bilibili.com/video/BV1w7Kp6QERu",
-    "pub_date": "2026-07-20 12:52:40 UTC",
-    "video_id": "BV1w7Kp6QERu",
-    "cover": "https://i2.hdslb.com/bfs/archive/6ff3561a54a57d6ad4c7e4170d48fe2b7b669cea.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
-    "updated_at": "2026-07-22 04:18:14 UTC",
+    "title": "【中文配音】LLM训练完整课程-Part8",
+    "link": "https://www.bilibili.com/video/BV13Dgk6vENW",
+    "pub_date": "2026-07-22 11:20:58 UTC",
+    "video_id": "BV13Dgk6vENW",
+    "cover": "https://i1.hdslb.com/bfs/archive/28c48f74adc994e04124f1f9e4df738ad29d91a9.jpg",
+    "checked_at": "2026-07-23 05:11:20 UTC",
+    "updated_at": "2026-07-23 05:11:20 UTC",
     "is_new": true,
     "fetch_error": false,
     "recent_video_ids": [
-      "BV1w7Kp6QERu",
-      "BV1LYKp6rEcn",
-      "BV1evKp6uENA",
-      "BV1gXK66DEUW",
-      "BV1cRKr6uE4j"
+      "BV13Dgk6vENW",
+      "BV1fGgr6rEAt",
+      "BV1BGgr6rETH",
+      "BV1nMgr6LECQ",
+      "BV1FMgr6LE1a"
     ],
     "new_video_ids": [
-      "BV1LYKp6rEcn",
-      "BV1evKp6uENA",
-      "BV1gXK66DEUW",
-      "BV1cRKr6uE4j"
+      "BV13Dgk6vENW",
+      "BV1fGgr6rEAt",
+      "BV1BGgr6rETH",
+      "BV1nMgr6LECQ",
+      "BV1FMgr6LE1a"
     ]
   },
   "517221395": {
@@ -163,9 +139,9 @@
     "pub_date": "2026-07-21 18:11:53 UTC",
     "video_id": "BV1rJKa63Eic",
     "cover": "https://i0.hdslb.com/bfs/archive/73f9025ebf40f167bef2c9587ffb5c5190c21ddf.jpg",
-    "checked_at": "2026-07-22 04:18:14 UTC",
+    "checked_at": "2026-07-23 05:11:20 UTC",
     "updated_at": "2026-07-22 04:18:14 UTC",
-    "is_new": true,
+    "is_new": false,
     "fetch_error": false,
     "recent_video_ids": [
       "BV1rJKa63Eic",
@@ -174,11 +150,6 @@
       "BV1FXnEzpEPZ",
       "BV1tpnGzUELC"
     ],
-    "new_video_ids": [
-      "BV1rJKa63Eic",
-      "BV1nyQGBaEKW",
-      "BV1FXnEzpEPZ",
-      "BV1tpnGzUELC"
-    ]
+    "new_video_ids": []
   }
 }
