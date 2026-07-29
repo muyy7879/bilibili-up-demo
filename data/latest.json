@@ -2,23 +2,25 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "【闪客】大大大模型哪大了？深入解读超大模型 Kimi K3 背后的技术",
-    "link": "https://www.bilibili.com/video/BV1yLKw6aE9p",
-    "pub_date": "2026-07-18 07:13:15 UTC",
-    "video_id": "BV1yLKw6aE9p",
-    "cover": "https://i2.hdslb.com/bfs/archive/ff9cef97bf146be95431d86dfa496e95c959d919.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
-    "updated_at": "2026-07-27 12:23:37 UTC",
-    "is_new": false,
+    "title": "【一飞冲天】AI 给我的最大帮助其实是... 很多人的方向都错了",
+    "link": "https://www.bilibili.com/video/BV1sv316KEih",
+    "pub_date": "2026-07-29 12:17:05 UTC",
+    "video_id": "BV1sv316KEih",
+    "cover": "https://i1.hdslb.com/bfs/archive/0098136bb3f6b12fd3bb6b7c2ea78e0ac1c06b99.jpg",
+    "checked_at": "2026-07-29 13:59:51 UTC",
+    "updated_at": "2026-07-29 13:59:51 UTC",
+    "is_new": true,
     "fetch_error": false,
     "recent_video_ids": [
+      "BV1sv316KEih",
       "BV1yLKw6aE9p",
       "BV1KcNc6FEqA",
       "BV1LkM86vEEW",
-      "BV1htTF6zEYE",
-      "BV1Xg7v6PEr9"
+      "BV1htTF6zEYE"
     ],
-    "new_video_ids": []
+    "new_video_ids": [
+      "BV1sv316KEih"
+    ]
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -28,7 +30,7 @@
     "pub_date": "2026-07-19 12:00:00 UTC",
     "video_id": "BV12WK666EhM",
     "cover": "https://i2.hdslb.com/bfs/archive/a7cacbbfeb6566942fb3a3682ffafc4ba4cd4477.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
+    "checked_at": "2026-07-29 13:59:51 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -49,7 +51,7 @@
     "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
     "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
+    "checked_at": "2026-07-29 13:59:51 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -70,7 +72,7 @@
     "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
     "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
+    "checked_at": "2026-07-29 13:59:51 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -91,7 +93,7 @@
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
     "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
+    "checked_at": "2026-07-29 13:59:51 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": false,
@@ -107,23 +109,27 @@
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】通过Agent优化来完善和改进智能体",
-    "link": "https://www.bilibili.com/video/BV1U7gY6KEkm",
-    "pub_date": "2026-07-24 08:57:21 UTC",
-    "video_id": "BV1U7gY6KEkm",
-    "cover": "https://i1.hdslb.com/bfs/archive/5418f971f7c6963b3a5798afed1b9eb38624ee9d.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
-    "updated_at": "2026-07-27 12:23:37 UTC",
-    "is_new": false,
+    "title": "【中文配音】扩展LLM摘要的医学评估 从PDSQI-9到LLM作为评判者",
+    "link": "https://www.bilibili.com/video/BV16c3C6DEAX",
+    "pub_date": "2026-07-29 00:00:47 UTC",
+    "video_id": "BV16c3C6DEAX",
+    "cover": "https://i0.hdslb.com/bfs/archive/423b013bb715ecde74c8d05be3bd693c9c501e6b.jpg",
+    "checked_at": "2026-07-29 13:59:51 UTC",
+    "updated_at": "2026-07-29 13:59:51 UTC",
+    "is_new": true,
     "fetch_error": false,
     "recent_video_ids": [
+      "BV16c3C6DEAX",
+      "BV1ko3k6WEAt",
+      "BV1Vw3q6oEYW",
       "BV1U7gY6KEkm",
-      "BV1h9gY6rETC",
-      "BV13Dgk6vENW",
-      "BV1fGgr6rEAt",
-      "BV1BGgr6rETH"
+      "BV1h9gY6rETC"
     ],
-    "new_video_ids": []
+    "new_video_ids": [
+      "BV16c3C6DEAX",
+      "BV1ko3k6WEAt",
+      "BV1Vw3q6oEYW"
+    ]
   },
   "517221395": {
     "name": "ZOMI酱",
@@ -133,7 +139,7 @@
     "pub_date": "2026-07-21 18:11:53 UTC",
     "video_id": "BV1rJKa63Eic",
     "cover": "https://i0.hdslb.com/bfs/archive/73f9025ebf40f167bef2c9587ffb5c5190c21ddf.jpg",
-    "checked_at": "2026-07-28 12:13:51 UTC",
+    "checked_at": "2026-07-29 13:59:51 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": false,
