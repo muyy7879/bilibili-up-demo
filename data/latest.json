@@ -2,88 +2,54 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "【一飞冲天】AI 给我的最大帮助其实是... 很多人的方向都错了",
-    "link": "https://www.bilibili.com/video/BV1sv316KEih",
-    "pub_date": "2026-07-29 12:17:05 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1sv316KEih",
-    "cover": "https://i1.hdslb.com/bfs/archive/0098136bb3f6b12fd3bb6b7c2ea78e0ac1c06b99.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
-    "is_new": true,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV1sv316KEih",
-      "BV1yLKw6aE9p",
-      "BV1KcNc6FEqA",
-      "BV1LkM86vEEW",
-      "BV1htTF6zEYE"
-    ],
-    "new_video_ids": [
-      "BV1sv316KEih"
-    ]
+    "is_new": false,
+    "fetch_error": true
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "哦对了，我将pi源码写成了一本书……",
-    "link": "https://www.bilibili.com/video/BV12WK666EhM",
-    "pub_date": "2026-07-19 12:00:00 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV12WK666EhM",
-    "cover": "https://i2.hdslb.com/bfs/archive/a7cacbbfeb6566942fb3a3682ffafc4ba4cd4477.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV12WK666EhM",
-      "BV1CuNG6pERs",
-      "BV1LUJP6REUf",
-      "BV1keLp6GERQ",
-      "BV1eU5A6MERk"
-    ],
-    "new_video_ids": []
+    "fetch_error": true
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
     "uid": "3546981949507978",
-    "title": "CVPR走马观花01：十年发展",
-    "link": "https://www.bilibili.com/video/BV15yGC6LEVw",
-    "pub_date": "2026-05-27 01:16:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV15yGC6LEVw",
-    "cover": "https://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV15yGC6LEVw",
-      "BV1k2RZBBEkT",
-      "BV1nwRkBWENv",
-      "BV1q7oSBVE14",
-      "BV11QogB2EZt"
-    ],
-    "new_video_ids": []
+    "fetch_error": true
   },
   "661890559": {
     "name": "木乔_Mokio",
     "uid": "661890559",
-    "title": "【2026/Agent】一期讲透！理论+代码从ToolCall到Harness、Claw，告诉你Agent的一切",
-    "link": "https://www.bilibili.com/video/BV1dw526tEMA",
-    "pub_date": "2026-05-13 17:17:22 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1dw526tEMA",
-    "cover": "https://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV1dw526tEMA",
-      "BV1pUDHBoE5Q",
-      "BV1z4wRzgExu",
-      "BV1axcQznEQK",
-      "BV1XWfUBTEHe"
-    ],
-    "new_video_ids": []
+    "fetch_error": true
   },
   "1815948385": {
     "name": "马克的技术工作坊",
@@ -92,64 +58,36 @@
     "link": "https://www.bilibili.com/video/BV1cmTu6mEL3",
     "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
-    "cover": "https://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "http://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV1cmTu6mEL3",
-      "BV1c9EK6KEW4",
-      "BV12LR1B3EUt",
-      "BV16zDfBtECQ",
-      "BV1E7wtzaEdq"
-    ],
-    "new_video_ids": []
+    "fetch_error": false
   },
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】扩展LLM摘要的医学评估 从PDSQI-9到LLM作为评判者",
-    "link": "https://www.bilibili.com/video/BV16c3C6DEAX",
-    "pub_date": "2026-07-29 00:00:47 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV16c3C6DEAX",
-    "cover": "https://i0.hdslb.com/bfs/archive/423b013bb715ecde74c8d05be3bd693c9c501e6b.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
-    "is_new": true,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV16c3C6DEAX",
-      "BV1ko3k6WEAt",
-      "BV1Vw3q6oEYW",
-      "BV1U7gY6KEkm",
-      "BV1h9gY6rETC"
-    ],
-    "new_video_ids": [
-      "BV16c3C6DEAX",
-      "BV1ko3k6WEAt",
-      "BV1Vw3q6oEYW"
-    ]
+    "is_new": false,
+    "fetch_error": true
   },
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "深度解读 KIMI K3",
-    "link": "https://www.bilibili.com/video/BV1rJKa63Eic",
-    "pub_date": "2026-07-21 18:11:53 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1rJKa63Eic",
-    "cover": "https://i0.hdslb.com/bfs/archive/73f9025ebf40f167bef2c9587ffb5c5190c21ddf.jpg",
-    "checked_at": "2026-07-29 13:59:51 UTC",
+    "cover": "",
+    "checked_at": "2026-07-31 01:22:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false,
-    "recent_video_ids": [
-      "BV1rJKa63Eic",
-      "BV1te5R6zE5f",
-      "BV1nyQGBaEKW",
-      "BV1FXnEzpEPZ",
-      "BV1tpnGzUELC"
-    ],
-    "new_video_ids": []
+    "fetch_error": true
   }
 }
