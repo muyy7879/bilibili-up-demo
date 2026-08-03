@@ -2,15 +2,15 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "【一飞冲天】AI 给我的最大帮助其实是... 很多人的方向都错了",
-    "link": "https://www.bilibili.com/video/BV1sv316KEih",
-    "pub_date": "2026-07-29 12:17:05 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1sv316KEih",
-    "cover": "http://i1.hdslb.com/bfs/archive/0098136bb3f6b12fd3bb6b7c2ea78e0ac1c06b99.jpg",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "cover": "",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV12WK666EhM",
     "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -54,15 +54,15 @@
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "如何使用第三方模型驱动 Codex（无需 OpenAI 账号）",
+    "link": "https://www.bilibili.com/video/BV1cmTu6mEL3",
+    "pub_date": "2026-06-28 13:44:40 UTC",
     "video_id": "BV1cmTu6mEL3",
-    "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "cover": "http://i2.hdslb.com/bfs/archive/61802b5782b07351938fbea97c0d604de884dd06.jpg",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "85379230": {
     "name": "狡猾的哈基",
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV16c3C6DEAX",
     "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
     "is_new": false,
     "fetch_error": true
@@ -85,7 +85,7 @@
     "pub_date": "",
     "video_id": "BV1rJKa63Eic",
     "cover": "",
-    "checked_at": "2026-08-01 01:24:13 UTC",
+    "checked_at": "2026-08-03 01:22:37 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
