@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1sv316KEih",
     "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
     "is_new": false,
     "fetch_error": true
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV12WK666EhM",
     "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -54,15 +54,15 @@
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "Keynote 动画制作全流程，以及我对 AI 动画的一些看法",
-    "link": "https://www.bilibili.com/video/BV1Qgum6VE7S",
-    "pub_date": "2026-08-09 11:57:08 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
-    "cover": "http://i2.hdslb.com/bfs/archive/3ef771b976fbbda2cc89b734cc7bb89f8d70d4dc.jpg",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "cover": "",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   },
   "85379230": {
     "name": "狡猾的哈基",
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1aBgL6ZECS",
     "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "深度解读 KIMI K3",
+    "link": "https://www.bilibili.com/video/BV1rJKa63Eic",
+    "pub_date": "2026-07-21 18:11:53 UTC",
     "video_id": "BV1rJKa63Eic",
-    "cover": "",
-    "checked_at": "2026-08-16 00:28:41 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/73f9025ebf40f167bef2c9587ffb5c5190c21ddf.jpg",
+    "checked_at": "2026-08-17 00:27:47 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   }
 }
