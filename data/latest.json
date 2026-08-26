@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1sv316KEih",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
     "is_new": false,
     "fetch_error": true
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV12WK666EhM",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1aBgL6ZECS",
     "cover": "",
-    "checked_at": "2026-08-17 00:27:47 UTC",
+    "checked_at": "2026-08-26 00:29:43 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "深度解读 KIMI K3",
-    "link": "https://www.bilibili.com/video/BV1rJKa63Eic",
-    "pub_date": "2026-07-21 18:11:53 UTC",
-    "video_id": "BV1rJKa63Eic",
-    "cover": "http://i0.hdslb.com/bfs/archive/73f9025ebf40f167bef2c9587ffb5c5190c21ddf.jpg",
-    "checked_at": "2026-08-17 00:27:47 UTC",
-    "updated_at": "2026-07-27 12:23:37 UTC",
-    "is_new": false,
+    "title": "DeepSeek Harnees全网深度解读！",
+    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
+    "pub_date": "2026-08-21 03:38:34 UTC",
+    "video_id": "BV1f98M6AEeg",
+    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
+    "checked_at": "2026-08-26 00:29:43 UTC",
+    "updated_at": "2026-08-26 00:29:43 UTC",
+    "is_new": true,
     "fetch_error": false
   }
 }
