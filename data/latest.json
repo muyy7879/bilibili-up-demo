@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1sv316KEih",
     "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-07-29 13:59:51 UTC",
     "is_new": false,
     "fetch_error": true
@@ -15,15 +15,15 @@
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "DSHarness 一切皆插件，有人点赞有人懵逼，整个 AI 圈乱成一锅粥",
-    "link": "https://www.bilibili.com/video/BV1yibC6BE8R",
-    "pub_date": "2026-08-15 06:38:23 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1yibC6BE8R",
-    "cover": "http://i0.hdslb.com/bfs/archive/a45173eabb9323342a2e0a7845561388472d8c99.jpg",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "cover": "",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-08-28 07:14:14 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
     "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1aBgL6ZECS",
     "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "DeepSeek Harnees全网深度解读！",
+    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
+    "pub_date": "2026-08-21 03:38:34 UTC",
     "video_id": "BV1f98M6AEeg",
-    "cover": "",
-    "checked_at": "2026-08-28 07:14:14 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
+    "checked_at": "2026-08-29 04:25:44 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   }
 }
