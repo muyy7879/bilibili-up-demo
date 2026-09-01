@@ -2,15 +2,15 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "BV1sv316KEih",
-    "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
-    "updated_at": "2026-07-29 13:59:51 UTC",
-    "is_new": false,
-    "fetch_error": true
+    "title": "【闪客】什么是大模型斩杀线？这居然是我大学经济学课的内容！",
+    "link": "https://www.bilibili.com/video/BV1z9t86dEc2",
+    "pub_date": "2026-08-31 10:48:09 UTC",
+    "video_id": "BV1z9t86dEc2",
+    "cover": "http://i1.hdslb.com/bfs/archive/7acc32e700a97a9c6a5e49ee21503ecc4494bfff.jpg",
+    "checked_at": "2026-09-01 02:12:01 UTC",
+    "updated_at": "2026-09-01 02:12:01 UTC",
+    "is_new": true,
+    "fetch_error": false
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1yibC6BE8R",
     "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-08-28 07:14:14 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
     "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1aBgL6ZECS",
     "cover": "",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "DeepSeek Harnees全网深度解读！",
-    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
-    "pub_date": "2026-08-21 03:38:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1f98M6AEeg",
-    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
-    "checked_at": "2026-08-29 04:25:44 UTC",
+    "cover": "",
+    "checked_at": "2026-09-01 02:12:01 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   }
 }
