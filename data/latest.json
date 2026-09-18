@@ -2,15 +2,15 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "【闪客】Computer Use 是什么？它真的有在看你的屏幕吗？可能和你想的不太一样...",
+    "link": "https://www.bilibili.com/video/BV1QuYX6XEZ4",
+    "pub_date": "2026-09-12 03:46:39 UTC",
     "video_id": "BV1QuYX6XEZ4",
-    "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "cover": "http://i2.hdslb.com/bfs/archive/fa2c83d6ec962f0ebd30edfe9ffd0eeb8a26c5fb.jpg",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-09-13 01:34:34 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1yibC6BE8R",
     "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-08-28 07:14:14 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
     "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -67,27 +67,27 @@
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】深入解析合成数据SDK",
-    "link": "https://www.bilibili.com/video/BV15SY365Es6",
-    "pub_date": "2026-09-10 15:18:31 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV15SY365Es6",
-    "cover": "http://i0.hdslb.com/bfs/archive/e2e693ce3e1a96fb5bbd437382124bd7a9dfe1de.jpg",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "cover": "",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-09-16 01:53:03 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "DeepSeek Harnees全网深度解读！",
+    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
+    "pub_date": "2026-08-21 03:38:34 UTC",
     "video_id": "BV1f98M6AEeg",
-    "cover": "",
-    "checked_at": "2026-09-16 01:53:03 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
+    "checked_at": "2026-09-18 01:44:09 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   }
 }
