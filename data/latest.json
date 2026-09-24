@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1QuYX6XEZ4",
     "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-09-13 01:34:34 UTC",
     "is_new": false,
     "fetch_error": true
@@ -15,15 +15,15 @@
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "BV1yibC6BE8R",
-    "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
-    "updated_at": "2026-08-28 07:14:14 UTC",
-    "is_new": false,
-    "fetch_error": true
+    "title": "【完整版】一口气学会pi-agent的底层原理和二开实践",
+    "link": "https://www.bilibili.com/video/BV1JB8o6BEit",
+    "pub_date": "2026-08-30 13:00:00 UTC",
+    "video_id": "BV1JB8o6BEit",
+    "cover": "http://i0.hdslb.com/bfs/archive/d79adff8dafa4e2c58f392f64a5539fa67c23950.jpg",
+    "checked_at": "2026-09-24 01:47:28 UTC",
+    "updated_at": "2026-09-24 01:47:28 UTC",
+    "is_new": true,
+    "fetch_error": false
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1Qgum6VE7S",
     "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-08-13 00:51:58 UTC",
     "is_new": false,
     "fetch_error": true
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV15SY365Es6",
     "cover": "",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-09-16 01:53:03 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "DeepSeek Harnees全网深度解读！",
-    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
-    "pub_date": "2026-08-21 03:38:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1f98M6AEeg",
-    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
-    "checked_at": "2026-09-23 01:58:26 UTC",
+    "cover": "",
+    "checked_at": "2026-09-24 01:47:28 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   }
 }
