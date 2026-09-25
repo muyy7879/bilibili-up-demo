@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1QuYX6XEZ4",
     "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-09-13 01:34:34 UTC",
     "is_new": false,
     "fetch_error": true
@@ -15,15 +15,15 @@
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "【完整版】一口气学会pi-agent的底层原理和二开实践",
-    "link": "https://www.bilibili.com/video/BV1JB8o6BEit",
-    "pub_date": "2026-08-30 13:00:00 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1JB8o6BEit",
-    "cover": "http://i0.hdslb.com/bfs/archive/d79adff8dafa4e2c58f392f64a5539fa67c23950.jpg",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "cover": "",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-09-24 01:47:28 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -54,15 +54,15 @@
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "BV1Qgum6VE7S",
-    "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
-    "updated_at": "2026-08-13 00:51:58 UTC",
-    "is_new": false,
-    "fetch_error": true
+    "title": "我的 AI 编程全流程：如何使用 AI 稳定交付一个高质量的产品",
+    "link": "https://www.bilibili.com/video/BV154426xEha",
+    "pub_date": "2026-08-29 11:38:24 UTC",
+    "video_id": "BV154426xEha",
+    "cover": "http://i0.hdslb.com/bfs/archive/8139189fcc9fb9da4e1cf74750d708c2d48e6e50.jpg",
+    "checked_at": "2026-09-25 02:04:06 UTC",
+    "updated_at": "2026-09-25 02:04:06 UTC",
+    "is_new": true,
+    "fetch_error": false
   },
   "85379230": {
     "name": "狡猾的哈基",
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV15SY365Es6",
     "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-09-16 01:53:03 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "DeepSeek Harnees全网深度解读！",
+    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
+    "pub_date": "2026-08-21 03:38:34 UTC",
     "video_id": "BV1f98M6AEeg",
-    "cover": "",
-    "checked_at": "2026-09-24 01:47:28 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
+    "checked_at": "2026-09-25 02:04:06 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   }
 }
