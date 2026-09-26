@@ -2,15 +2,15 @@
   "325864133": {
     "name": "飞天闪客",
     "uid": "325864133",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "BV1QuYX6XEZ4",
-    "cover": "",
-    "checked_at": "2026-09-25 02:04:06 UTC",
-    "updated_at": "2026-09-13 01:34:34 UTC",
-    "is_new": false,
-    "fetch_error": true
+    "title": "一直说安全安全，Agent 安全到底是个啥？带你看看细节",
+    "link": "https://www.bilibili.com/video/BV1iFaA6QERo",
+    "pub_date": "2026-09-24 11:37:10 UTC",
+    "video_id": "BV1iFaA6QERo",
+    "cover": "http://i2.hdslb.com/bfs/archive/fba9ba832fbb61230e0bcab071a6198cbd31099b.jpg",
+    "checked_at": "2026-09-26 02:09:59 UTC",
+    "updated_at": "2026-09-26 02:09:59 UTC",
+    "is_new": true,
+    "fetch_error": false
   },
   "367678065": {
     "name": "费曼学徒冬瓜",
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1JB8o6BEit",
     "cover": "",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-09-24 01:47:28 UTC",
     "is_new": false,
     "fetch_error": true
@@ -28,15 +28,15 @@
   "3546981949507978": {
     "name": "畅想EidolaAI",
     "uid": "3546981949507978",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "CVPR走马观花01：十年发展",
+    "link": "https://www.bilibili.com/video/BV15yGC6LEVw",
+    "pub_date": "2026-05-27 01:16:34 UTC",
     "video_id": "BV15yGC6LEVw",
-    "cover": "",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/70591c56ef8c67bd50740b5bc97e0be6e2b3b87a.jpg",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "661890559": {
     "name": "木乔_Mokio",
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -54,15 +54,15 @@
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "我的 AI 编程全流程：如何使用 AI 稳定交付一个高质量的产品",
-    "link": "https://www.bilibili.com/video/BV154426xEha",
-    "pub_date": "2026-08-29 11:38:24 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV154426xEha",
-    "cover": "http://i0.hdslb.com/bfs/archive/8139189fcc9fb9da4e1cf74750d708c2d48e6e50.jpg",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "cover": "",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-09-25 02:04:06 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "85379230": {
     "name": "狡猾的哈基",
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV15SY365Es6",
     "cover": "",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-09-16 01:53:03 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "DeepSeek Harnees全网深度解读！",
-    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
-    "pub_date": "2026-08-21 03:38:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1f98M6AEeg",
-    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
-    "checked_at": "2026-09-25 02:04:06 UTC",
+    "cover": "",
+    "checked_at": "2026-09-26 02:09:59 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   }
 }
