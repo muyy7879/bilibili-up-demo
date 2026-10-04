@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1iFaA6QERo",
     "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-09-26 02:09:59 UTC",
     "is_new": false,
     "fetch_error": true
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1JB8o6BEit",
     "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-09-24 01:47:28 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV154426xEha",
     "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-09-25 02:04:06 UTC",
     "is_new": false,
     "fetch_error": true
@@ -67,27 +67,27 @@
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】全面回顾Agent Memory与Harness工程 - Ignacio Martinez，Oracle",
-    "link": "https://www.bilibili.com/video/BV1Deh86JErv",
-    "pub_date": "2026-09-23 13:04:10 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1Deh86JErv",
-    "cover": "http://i0.hdslb.com/bfs/archive/82ec297b2acc4461db64428e67db3facaad0801a.jpg",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "cover": "",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-10-03 02:29:21 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "DeepSeek Harnees全网深度解读！",
+    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
+    "pub_date": "2026-08-21 03:38:34 UTC",
     "video_id": "BV1f98M6AEeg",
-    "cover": "",
-    "checked_at": "2026-10-03 02:29:21 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
+    "checked_at": "2026-10-04 02:59:57 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   }
 }
