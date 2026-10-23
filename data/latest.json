@@ -7,7 +7,7 @@
     "pub_date": "2026-10-14 14:37:27 UTC",
     "video_id": "BV1sapm6KE2q",
     "cover": "http://i2.hdslb.com/bfs/archive/ab3ef5264f96190588d5dc88c350ede83a00c981.jpg",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-10-17 01:44:37 UTC",
     "is_new": false,
     "fetch_error": false
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1JB8o6BEit",
     "cover": "",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-09-24 01:47:28 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -41,28 +41,28 @@
   "661890559": {
     "name": "木乔_Mokio",
     "uid": "661890559",
-    "title": "【2026/Agent】一期讲透！理论+代码从ToolCall到Harness、Claw，告诉你Agent的一切",
-    "link": "https://www.bilibili.com/video/BV1dw526tEMA",
-    "pub_date": "2026-05-13 17:17:22 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1dw526tEMA",
-    "cover": "http://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "cover": "",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   },
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "一个视频学会 Git + GitHub：AI 编程必不可少的两个工具",
-    "link": "https://www.bilibili.com/video/BV1LwHv6LEYz",
-    "pub_date": "2026-10-03 10:10:14 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1LwHv6LEYz",
-    "cover": "http://i2.hdslb.com/bfs/archive/fe6544b13d15083c96186c5b090dc2864305fbde.jpg",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "cover": "",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-10-22 02:04:14 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "85379230": {
     "name": "狡猾的哈基",
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1HoHQ6rEH7",
     "cover": "",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-10-09 03:15:18 UTC",
     "is_new": false,
     "fetch_error": true
@@ -85,7 +85,7 @@
     "pub_date": "",
     "video_id": "BV1f98M6AEeg",
     "cover": "",
-    "checked_at": "2026-10-22 02:04:14 UTC",
+    "checked_at": "2026-10-23 02:08:58 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
     "fetch_error": true
