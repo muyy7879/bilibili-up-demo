@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1sapm6KE2q",
     "cover": "",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-10-17 01:44:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -15,15 +15,15 @@
   "367678065": {
     "name": "费曼学徒冬瓜",
     "uid": "367678065",
-    "title": "决策模型，哼，总有你干不了的吧",
-    "link": "https://www.bilibili.com/video/BV1ynnS6eEbG",
-    "pub_date": "2026-10-25 13:18:31 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1ynnS6eEbG",
-    "cover": "http://i0.hdslb.com/bfs/archive/a61e7122859e12a431e78d8b3f5bd76c55994d6d.jpg",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "cover": "",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-10-26 01:55:48 UTC",
-    "is_new": true,
-    "fetch_error": false
+    "is_new": false,
+    "fetch_error": true
   },
   "3546981949507978": {
     "name": "畅想EidolaAI",
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1LwHv6LEYz",
     "cover": "",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-10-22 02:04:14 UTC",
     "is_new": false,
     "fetch_error": true
@@ -67,27 +67,27 @@
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "【中文配音】从零开始构建推理大模型（Reasoning Model）",
+    "link": "https://www.bilibili.com/video/BV1HoHQ6rEH7",
+    "pub_date": "2026-10-08 07:16:14 UTC",
     "video_id": "BV1HoHQ6rEH7",
-    "cover": "",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "cover": "http://i1.hdslb.com/bfs/archive/2e6cddd4c19bbbb87e862432a39936ac0fb49cf9.jpg",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-10-09 03:15:18 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "DeepSeek Harnees全网深度解读！",
-    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
-    "pub_date": "2026-08-21 03:38:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1f98M6AEeg",
-    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
-    "checked_at": "2026-10-26 01:55:48 UTC",
+    "cover": "",
+    "checked_at": "2026-10-28 02:42:44 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   }
 }
