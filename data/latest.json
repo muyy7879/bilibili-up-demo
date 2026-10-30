@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1sapm6KE2q",
     "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-10-17 01:44:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1ynnS6eEbG",
     "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-10-26 01:55:48 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -46,7 +46,7 @@
     "pub_date": "",
     "video_id": "BV1dw526tEMA",
     "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -54,28 +54,28 @@
   "1815948385": {
     "name": "马克的技术工作坊",
     "uid": "1815948385",
-    "title": "",
-    "link": "",
-    "pub_date": "",
-    "video_id": "BV1LwHv6LEYz",
-    "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
-    "updated_at": "2026-10-22 02:04:14 UTC",
-    "is_new": false,
-    "fetch_error": true
+    "title": "如何审核 AI 写的代码？从写代码到上线，一套保证产品质量的全流程",
+    "link": "https://www.bilibili.com/video/BV1PznU6YEZE",
+    "pub_date": "2026-10-26 12:23:49 UTC",
+    "video_id": "BV1PznU6YEZE",
+    "cover": "http://i2.hdslb.com/bfs/archive/34b48e092bf075cfaf99d6edb1cce9ff379dc4df.jpg",
+    "checked_at": "2026-10-30 03:06:36 UTC",
+    "updated_at": "2026-10-30 03:06:36 UTC",
+    "is_new": true,
+    "fetch_error": false
   },
   "85379230": {
     "name": "狡猾的哈基",
     "uid": "85379230",
-    "title": "【中文配音】从零开始构建推理大模型（Reasoning Model）",
-    "link": "https://www.bilibili.com/video/BV1HoHQ6rEH7",
-    "pub_date": "2026-10-08 07:16:14 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1HoHQ6rEH7",
-    "cover": "http://i1.hdslb.com/bfs/archive/2e6cddd4c19bbbb87e862432a39936ac0fb49cf9.jpg",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "cover": "",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-10-09 03:15:18 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   },
   "517221395": {
     "name": "ZOMI酱",
@@ -85,7 +85,7 @@
     "pub_date": "",
     "video_id": "BV1f98M6AEeg",
     "cover": "",
-    "checked_at": "2026-10-28 02:42:44 UTC",
+    "checked_at": "2026-10-30 03:06:36 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
     "fetch_error": true
