@@ -7,7 +7,7 @@
     "pub_date": "",
     "video_id": "BV1eaxy6JE7t",
     "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-11-12 04:30:06 UTC",
     "is_new": false,
     "fetch_error": true
@@ -20,7 +20,7 @@
     "pub_date": "",
     "video_id": "BV1WHxx65EML",
     "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-11-11 03:19:29 UTC",
     "is_new": false,
     "fetch_error": true
@@ -33,7 +33,7 @@
     "pub_date": "",
     "video_id": "BV15yGC6LEVw",
     "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
     "fetch_error": true
@@ -41,15 +41,15 @@
   "661890559": {
     "name": "木乔_Mokio",
     "uid": "661890559",
-    "title": "",
-    "link": "",
-    "pub_date": "",
+    "title": "【2026/Agent】一期讲透！理论+代码从ToolCall到Harness、Claw，告诉你Agent的一切",
+    "link": "https://www.bilibili.com/video/BV1dw526tEMA",
+    "pub_date": "2026-05-13 17:17:22 UTC",
     "video_id": "BV1dw526tEMA",
-    "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "cover": "http://i0.hdslb.com/bfs/archive/ccd46b63ab9c2cfc1aa472b79af496cbdbfbdea1.jpg",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-07-27 12:23:37 UTC",
     "is_new": false,
-    "fetch_error": true
+    "fetch_error": false
   },
   "1815948385": {
     "name": "马克的技术工作坊",
@@ -59,7 +59,7 @@
     "pub_date": "",
     "video_id": "BV1BTWH6nEXA",
     "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-11-12 04:30:06 UTC",
     "is_new": false,
     "fetch_error": true
@@ -72,7 +72,7 @@
     "pub_date": "",
     "video_id": "BV1HoHQ6rEH7",
     "cover": "",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-10-09 03:15:18 UTC",
     "is_new": false,
     "fetch_error": true
@@ -80,14 +80,14 @@
   "517221395": {
     "name": "ZOMI酱",
     "uid": "517221395",
-    "title": "DeepSeek Harnees全网深度解读！",
-    "link": "https://www.bilibili.com/video/BV1f98M6AEeg",
-    "pub_date": "2026-08-21 03:38:34 UTC",
+    "title": "",
+    "link": "",
+    "pub_date": "",
     "video_id": "BV1f98M6AEeg",
-    "cover": "http://i0.hdslb.com/bfs/archive/c59498eef2f9db9e0af5bf665d4b678ba5057ef8.jpg",
-    "checked_at": "2026-11-15 03:20:40 UTC",
+    "cover": "",
+    "checked_at": "2026-11-17 05:22:19 UTC",
     "updated_at": "2026-08-26 00:29:43 UTC",
     "is_new": false,
-    "fetch_error": false
+    "fetch_error": true
   }
 }
